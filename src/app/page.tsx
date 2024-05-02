@@ -39,7 +39,7 @@ export default function Home() {
           <div className="w-full border-dashed">
             <div className="border-dashed flex border-zinc-500  rounded-lg p-[70px]">
               <div className="w-full h-[300px]">
-                <div className="h-[260px] p-8  flex-col justify-between rounded-xl bg-gradient-to-b from-[#292842] to-[#6866A8] shadow-lg">
+                <div className="h-[260px] p-8  flex-col justify-between rounded-xl bg-gradient-to-b from-[#292842] to-[#6866A8] shadow-lg shadow-box">
                   <div>
                     <h1 className="text-2xl text-white">Project Name</h1>
                     <p className="text-white">Last Update: Date</p>
